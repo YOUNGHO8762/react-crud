@@ -212,7 +212,7 @@ json-server를 설치합니다.
 db.json 파일을 생성하여 위에 mock-data를 붙여 넣습니다. <br>
 
 ```
-json-server --watch data.json --port 3001
+json-server --watch db.json --port 3001
 ```
 
 json-server 를 실행합니다.
